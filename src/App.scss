@@ -1,0 +1,42 @@
+.App {
+  // display: flex;
+  align-items: center;
+  justify-content: center;
+  // height: 100px;
+  // width: 100px;
+}
+
+form {
+  background-color: white;
+  padding: 0px 60px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 4px 10px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.heading {
+  width: 100%;
+  background-color: aqua;
+  text-align: center;
+}
+
+.disable {
+  display: none;
+}
+
+.dark {
+  color: #fff;
+  background-color: #000;
+}
+
+.light {
+  color: #000;
+  background-color: rgb(230, 181, 181);
+}
